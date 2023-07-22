@@ -1,0 +1,48 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.navbar{
+    background-color: rgb(50, 50, 126);
+    color: white;
+}
+
+a{
+    text-decoration: none;
+    margin: 1rem;
+    color: white;
+}
+
+.hero{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding-top: 3rem;
+    padding-bottom: 2rem;
+    background-color:rgb(41, 202, 149) ;
+    color: white;
+}
+
+.hero-img{
+    width:15rem ;
+    height: 15rem;
+    border-radius: 50%;
+
+}
+    
+.card-img{
+    padding: 1rem;
+    border-radius: 1.5rem;
+}
+
+.about{
+    background-color:rgb(41, 202, 149) ;
+    color: white;
+}
+
+#footer{
+    background-color: rgb(48, 44, 53);
+    color: white;
+}
